@@ -1,0 +1,3 @@
+Bored ? Let's do some data science...
+
+[a link](https://blog.hosni.me/2018/07/bored-lets-do-some-data-science.html)
